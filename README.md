@@ -1,11 +1,12 @@
-# Cascade of CNNs for Robust Facial Landmarks Detection
+# Cascade of Encoder-Decoder CNNs with Learned Coordinates Regressor for Robust Facial Landmarks Detection
 
 We provide C++ code in order to replicate the experiments in our paper
+https://doi.org/10.1016/j.patrec.2019.10.012
 
 If you use this code for your own research, you must reference our PRL paper:
 
 ```
-Cascade of CNNs for Robust Facial Landmarks Detection
+Cascade of Encoder-Decoder CNNs with Learned Coordinates Regressor for Robust Facial Landmarks Detection
 Roberto Valle, José M. Buenaposada and Luis Baumela.
 Pattern Recognition Letters, PRL 2019.
 ```

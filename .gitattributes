@@ -4,3 +4,4 @@ data/cofw.pb filter=lfs diff=lfs merge=lfs -text
 data/aflw.pb filter=lfs diff=lfs merge=lfs -text
 data/wflw.pb filter=lfs diff=lfs merge=lfs -text
 data/ls3dw.pb filter=lfs diff=lfs merge=lfs -text
+data/menpo.pb filter=lfs diff=lfs merge=lfs -text

@@ -1,3 +1,8 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cascade-of-encoder-decoder-cnns-with-learned/face-alignment-on-wflw)](https://paperswithcode.com/sota/face-alignment-on-wflw?p=cascade-of-encoder-decoder-cnns-with-learned)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cascade-of-encoder-decoder-cnns-with-learned/face-alignment-on-cofw)](https://paperswithcode.com/sota/face-alignment-on-cofw?p=cascade-of-encoder-decoder-cnns-with-learned)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cascade-of-encoder-decoder-cnns-with-learned/facial-landmark-detection-on-300w)](https://paperswithcode.com/sota/facial-landmark-detection-on-300w?p=cascade-of-encoder-decoder-cnns-with-learned)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cascade-of-encoder-decoder-cnns-with-learned/face-alignment-on-300w)](https://paperswithcode.com/sota/face-alignment-on-300w?p=cascade-of-encoder-decoder-cnns-with-learned)
+
 # Cascade of Encoder-Decoder CNNs with Learned Coordinates Regressor for Robust Facial Landmarks Detection
 
 We provide C++ code in order to replicate the experiments in our paper

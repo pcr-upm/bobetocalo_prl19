@@ -299,7 +299,7 @@ FaceAlignmentPrl19::process
         landmark.feature_idx = static_cast<unsigned int>(feature_idx);
         landmark.pos.x = pt.x * (bbox_enlarged.width/FACE_SIZE.width) + bbox_enlarged.x;
         landmark.pos.y = pt.y * (bbox_enlarged.height/FACE_SIZE.height) + bbox_enlarged.y;
-        landmark.visible = true;
+        landmark.occluded = 0.0f;
         face.parts[db_part.first].landmarks.push_back(landmark);
       }
   }
